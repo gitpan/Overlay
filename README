@@ -1,0 +1,12 @@
+  Once you have downloaded Overload-0.01.tar.gz, unpack it somewhere
+(tar xzvf Overload-0.01.tar.gz) and enter the Overload directory that was
+created. In there, you will find an INSTALL file that will describe the
+simple installation procedure.
+
+  The Tie::Hash::Overlay package has a pod attached that contains all of
+the interesting usage info.
+
+  If you come up with any creative uses for my package, find a bug, have
+a suggestion as to how you would like to see my package evolve, a question
+regarding the package, or just plain want a cool feature added, please
+e-mail me at jql@accessone.com.

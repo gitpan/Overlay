@@ -1,0 +1,24 @@
+So... you've decided to install Tie::Hash::Overlay.
+
+Fortunatly the installation procedure is pretty simple. Once you've
+downloaded and untarred the Overlay package, enter the directory that was
+created and run the following commands:
+
+perl Makefile.PL
+make test
+
+At the end, there will be a number of tests, they should all say
+'ok <number>'. If *any* of the tests fail, send me an e-mail, quick!
+
+If all the tests have succeesed, run the commands:
+
+make install
+perl test.pl
+
+The 'make install' will install the files so that they are globally
+available, and the 'perl test.pl' will test to make sure that they've been
+properly installed. If all of the tests are okay, you have successfully
+installed Tie::Hash::Overlay.
+
+I recommend you read the Tie::Hash::Overlay(3) man-page and start
+programming away!
